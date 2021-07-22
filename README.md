@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on .Net backend application
 
 - 📫 How to reach me: patrykpospiech104@gmail.com
+
+Blog: https://patrykpospiech.github.io/
 <!--
 **PatrykPospiech/PatrykPospiech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
