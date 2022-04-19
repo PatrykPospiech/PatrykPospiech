@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a fan of .NET and programming in general. I would like to gain knowledge and share it. 
+I'm an enthusiast of .NET and programming in general. I love to gain knowledge and share it.
 On my GitHub you can find projects that I'm developing and my blog, where I will be sharing my knowledge. 
 
 - 🔭 I’m currently working on solution for warehouses
