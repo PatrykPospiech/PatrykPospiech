@@ -10,6 +10,8 @@ On my GitHub you can find projects that I'm developing and my blog, where I will
 - 📫 How to reach me: patrykpospiech104@gmail.com
 
 Blog: https://patrykpospiech.github.io/
+Twitch: https://www.twitch.tv/devbombelek
+Instagram: https://www.instagram.com/devbombelek/
 <!--
 **PatrykPospiech/PatrykPospiech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
